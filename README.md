@@ -9,7 +9,7 @@
 
 ## 🌟 Why Solara Stands Out?
 
-| Feature                | Solara V2                      | Traditional Executors         |
+| Feature                | Solara V3                      | Traditional Executors         |
 |------------------------|--------------------------------|-------------------------------|
 | Injection Speed        | < 1.5 seconds                  | 3-5 seconds                   |
 | Crash Rate             | 0.2%                           | 15-20%                        |
@@ -37,10 +37,6 @@
 ## 📥 Installation Made Simple
 
 ```bash
-# Windows Installation
-winget install solara-v2 --source github
-
-# Manual Installation
 1. Download
 2. Add to antivirus exclusions:
    > solara.exe
