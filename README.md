@@ -1,7 +1,4 @@
-<div align="center">
-  <img src="https://github.com/yourusername/solara/blob/main/assets/banner.png?raw=true" width="800" alt="Solara Banner">
-  
- 
+
   ![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)
 
   <h1>⚡ Solara - Next-Gen Roblox Script Execution</h1>
@@ -19,9 +16,8 @@
 | Script Compatibility   | 98% success rate               | 75-80% success rate           |
 | Security Features      | AES-256 encryption             | Basic obfuscation             |
 
-<div align="center">
-  <img src="https://github.com/stlmatth/solara/blob/main/assets/demo.gif?raw=true" width="600" alt="Solara Demo">
-</div>
+![image](https://github.com/user-attachments/assets/41d24b00-f06b-434c-9a1e-6d791ecae109)
+
 
 ## 🚀 Features That Revolutionize Scripting
 
