@@ -40,6 +40,6 @@
 1. Download
 2. Add to antivirus exclusions:
    > solara.exe
-   > /libs/quantum.dll
+   > /client/Executor.lua
 3. Run integrity check:
    .\solara verify --full
